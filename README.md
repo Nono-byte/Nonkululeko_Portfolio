@@ -36,5 +36,5 @@ EDSA requires to construction of a recommendation algorithm based on content or 
 ### Business Goal:
 Show the value of recommender system in the industry. These recommender systems assist companies to market their products and services to the target marget, by improving customer service and satisfication. It allows them to increase their market engagement with relevant (items the user likes) products and services which can lead to increase in profits and market share. Industry leading companies such as Netflix and Amazon make use of these recommender systems.
 
-![]()
+![Image of movies](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/movies.jpg)
 
