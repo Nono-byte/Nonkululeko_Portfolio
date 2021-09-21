@@ -1,5 +1,5 @@
 # Nonkululeko Ntuli
-Portfolio of data science projects completed by me for academic purposes, as well as skills development.
+
 
 Problems are solved better using Data/ Inspired to solve problems using data
 
