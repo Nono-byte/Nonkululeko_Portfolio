@@ -11,7 +11,7 @@ The aim of this project is to construct a regression algorithm, capable of accur
 
 The variable to be predicted(y) is Average Price per Kg
 
-![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/main/Images/Golden%20delicious%20apple2.jpg)
+![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
 
 
 ## [Twitter Sentiment Analysis_ Classification](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
