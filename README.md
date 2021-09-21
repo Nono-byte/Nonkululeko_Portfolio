@@ -14,7 +14,7 @@ The variable to be predicted(y) is Average Price per Kg
 ![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
 
 
-## [Twitter Sentiment Analysis_ Classification](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
+## [Twitter Sentiment Analysis_ Natural language processing](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
 
 ### Introduction
 In light of the increased volumes of data over the past decade (a.k.a Big Data), there's a high demand by companies for the analysis of data for decision making purposes. Social Media data is a huge source of this data in the form of chats, messages, news feeds, etc. Text analytics is a process that helps analyse this unstructured data and look for useful trends.
@@ -28,7 +28,7 @@ Providing an accurate and robust solution using machine learning to create effec
 
 ![]()
 
-## [Movie Recommendation System](https://github.com/Nono-byte/Unsupervised_Movie_Recommender_System_Team_TS1-1)
+## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Unsupervised_Movie_Recommender_System_Team_TS1-1)
 
 ### Problem Statement:
 EDSA requires to construction of a recommendation algorithm based on content or collaborative filtering, capable of accurately predicting how a user will rate a movie they have not yet viewed based on their historical preferences.
