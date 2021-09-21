@@ -26,7 +26,7 @@ Twitter data is a powerful source of information on a wide list of topics. This 
 ### Problem statement
 Providing an accurate and robust solution using machine learning to create effective tools that give companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
-![]()
+![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
 
 ## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Unsupervised_Movie_Recommender_System_Team_TS1-1)
 
