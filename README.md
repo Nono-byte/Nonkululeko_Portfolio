@@ -38,3 +38,4 @@ Show the value of recommender system in the industry. These recommender systems 
 
 ![Image of movies](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/movies.jpg)
 
+## [SQL: Database Normalization and Querying](https://github.com/Nono-byte/SQL-project)
