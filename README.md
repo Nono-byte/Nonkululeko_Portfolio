@@ -28,7 +28,7 @@ Providing an accurate and robust solution using machine learning to create effec
 
 ![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
 
-## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Unsupervised_Movie_Recommender_System_Team_TS1-1)
+## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Moive_Recommender_System_Unsupervised_Learning)
 
 ### Problem Statement:
 EDSA requires to construction of a recommendation algorithm based on content or collaborative filtering, capable of accurately predicting how a user will rate a movie they have not yet viewed based on their historical preferences.
