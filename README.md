@@ -4,7 +4,7 @@
 Problems are solved better using Data/ Inspired to solve problems using data
 
 
-## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Regression_AM1_DSFT)
+## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
 In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
 
 The aim of this project is to construct a regression algorithm, capable of accurately predicting how much a kilogram of Golden Delicious Apples will cost, given certain parameters.
