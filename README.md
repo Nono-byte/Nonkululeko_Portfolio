@@ -1,7 +1,7 @@
 # Nonkululeko Ntuli
 
 
-Problems are solved better using Data/ Inspired to solve problems using data
+Inspired to solve problems using data
 
 
 ## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
