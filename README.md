@@ -39,3 +39,36 @@ Show the value of recommender system in the industry. These recommender systems 
 ![Image of movies](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/movies.jpg)
 
 ## [SQL: Database Normalization and Querying](https://github.com/Nono-byte/SQL-project)
+
+![Image]
+
+### Problem Statement
+The Bhejane trading store is an online retailer specialising in Covid essesstial items. The store has recently be struggling with the management of its database-related inventory system.
+
+### Business Goal
+The denormalised database consists of two tables. The goal is to transform the database such that is in third normal form (3NF) and analyse the data for decision making purposes
+
+## [Watch History data anlysis and verification](https://github.com/Nono-byte/Watch-History-Verification)
+
+### Problem statement
+The client has expressed a requirement to ensure that the learning device restricts students from performing multiple tasks simultaneously. The client wants to verify whether the system enforces this restriction effectively to maintain a seamless learning experience for the students.
+
+The problem at hand is to assess the learning platform's functionality and confirm that it prevents students from engaging in more than one task concurrently. This restriction is crucial to ensure that students can focus on a single task at a time, preventing distractions and promoting efficient learning.
+
+The client expects the following outcomes from the verification process:
+
+- Identify any instances where students are able to perform multiple tasks simultaneously on the learning platform.
+- Evaluate the system's behavior when students attempt to switch between tasks and confirm that it enforces the restriction effectively.
+- Assess the responsiveness and reliability of the system in enforcing the task restriction across various user scenarios.
+- Provide actionable recommendations to address any identified gaps or issues in the system's ability to restrict students to one task at a time.
+- Ensure that the learning platform delivers a seamless and distraction-free learning experience for students, allowing them to focus on their educational tasks effectively.
+
+## [Financial Data analysys](https://github.com/Nono-byte/Financial-Data-Analysis)
+
+The objective of this proect is to analyze financial data and extract valuable insights to facilitate forecasting of income, balance sheet and cash flows. Through a comprehensive examination of the available financial data, we aim to gain deeper insights into the financial performance of Apple. By leveraging these insights, stakeholders can make informed decisions and take appropriate actions to optimize financial outcomes.
+
+This is an on-going project which will feature time series forecasting of the income and cashflows of Apple. 
+
+
+
+
