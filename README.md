@@ -5,7 +5,7 @@ Inspired to solve problems using data
 
 ## [Financial Data analysys](https://github.com/Nono-byte/Financial-Data-Analysis)
 
-![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Appe.png)
+![Image of Apple](https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/833e4bc69309ee6b5976c09caa12847dd0d117bd/Images/Apple.png)
 
 The objective of this proect is to analyze financial data and extract valuable insights to facilitate forecasting of income, balance sheet and cash flows. Through a comprehensive examination of the available financial data, we aim to gain deeper insights into the financial performance of Apple. By leveraging these insights, stakeholders can make informed decisions and take appropriate actions to optimize financial outcomes.
 
