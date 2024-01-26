@@ -81,8 +81,5 @@ The client expects the following outcomes from the verification process:
 
 
 
-This is an on-going project which will feature time series forecasting of the income and cashflows of Apple. 
-
-
 
 
