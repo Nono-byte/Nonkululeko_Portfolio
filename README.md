@@ -7,7 +7,8 @@ Inspired to solve problems using data
 
 ![Image of Apple](https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/833e4bc69309ee6b5976c09caa12847dd0d117bd/Images/Apple.png)
 
-The objective of this proect is to analyze financial data and extract valuable insights to facilitate forecasting of income, balance sheet and cash flows. Through a comprehensive examination of the available financial data, we aim to gain deeper insights into the financial performance of Apple. By leveraging these insights, stakeholders can make informed decisions and take appropriate actions to optimize financial outcomes.
+
+This project employs Python to conduct a thorough examination of Apple's financial data. The process encompasses retrieving and cleansing data, exploring intricate relationships between various financial metrics, computing essential indicators to gauge financial health, and utilizing a linear regression model to predict Apple's future revenue over the next three years. The findings are then effectively communicated through visually compelling representations, offering valuable insights into Apple's financial performance and potential growth trajectories.
 
 
 ## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
