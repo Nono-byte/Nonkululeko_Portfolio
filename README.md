@@ -3,7 +3,7 @@
 
 Inspired to solve problems using data
 
-## [Financial Data analysys](https://github.com/Nono-byte/Financial-Data-Analysis)
+## [Financial Data analysis](https://github.com/Nono-byte/Financial-Data-Analysis)
 
 ![Image of Apple](https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/833e4bc69309ee6b5976c09caa12847dd0d117bd/Images/Apple.png)
 
