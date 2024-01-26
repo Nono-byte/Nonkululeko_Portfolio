@@ -20,16 +20,6 @@ The equal-weighted portfolio, distributed evenly with a $10,000 allocation acros
 
 For portfolio optimization, 10,000 scenarios were generated with random weightings for each stock. Return, volatility, and Sharpe ratio were calculated for each scenario, identifying the optimal portfolio with the highest Sharpe ratio.
 
-## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
-In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
-
-The aim of this project is to construct a regression algorithm, capable of accurately predicting how much a kilogram of Golden Delicious Apples will cost, given certain parameters.
-
-The variable to be predicted(y) is Average Price per Kg
-
-![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
-
-
 ## [Twitter Sentiment Analysis_ Natural language processing](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
 
 ### Introduction
@@ -43,6 +33,16 @@ Twitter data is a powerful source of information on a wide list of topics. This 
 Providing an accurate and robust solution using machine learning to create effective tools that give companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
 ![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
+
+## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
+In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
+
+The aim of this project is to construct a regression algorithm, capable of accurately predicting how much a kilogram of Golden Delicious Apples will cost, given certain parameters.
+
+The variable to be predicted(y) is Average Price per Kg
+
+![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
+
 
 ## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Moive_Recommender_System_Unsupervised_Learning)
 
