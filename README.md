@@ -10,7 +10,7 @@ Inspired to solve problems using data
 
 This project employs Python to conduct a thorough examination of Apple's financial data. The process encompasses retrieving and cleansing data, exploring intricate relationships between various financial metrics, computing essential indicators to gauge financial health, and utilizing a linear regression model to predict Apple's future revenue over the next three years. The findings are then effectively communicated through visually compelling representations, offering valuable insights into Apple's financial performance and potential growth trajectories.
 
-## [Portfolio Optimisation](https://github.com/Nono-byte/Financial-Data-Analysis)
+## [Portfolio Optimisation](https://github.com/Nono-byte/Porfolio-Optimisation)
 
 This project delved into portfolio optimization using Python, focusing on constructing and comparing two portfolios: an equal-weighted and an optimized version. The stocks considered were SPY (S&P 500), AMD, MSFT (Microsoft), and GOOGL (Google).
 
