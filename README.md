@@ -10,6 +10,13 @@ Inspired to solve problems using data
 
 This project employs Python to conduct a thorough examination of Apple's financial data. The process encompasses retrieving and cleansing data, exploring intricate relationships between various financial metrics, computing essential indicators to gauge financial health, and utilizing a linear regression model to predict Apple's future revenue over the next three years. The findings are then effectively communicated through visually compelling representations, offering valuable insights into Apple's financial performance and potential growth trajectories.
 
+## [Portfolio Optimisation](https://github.com/Nono-byte/Financial-Data-Analysis)
+
+This project delved into portfolio optimization using Python, focusing on constructing and comparing two portfolios: an equal-weighted and an optimized version. The stocks considered were SPY (S&P 500), AMD, MSFT (Microsoft), and GOOGL (Google).
+
+The equal-weighted portfolio, distributed evenly with a $10,000 allocation across the four stocks, underwent a comprehensive analysis, including cumulative return, mean daily return, standard deviation of daily return, Sharpe ratio, and annualized Sharpe ratio.
+
+For portfolio optimization, 10,000 scenarios were generated with random weightings for each stock. Return, volatility, and Sharpe ratio were calculated for each scenario, identifying the optimal portfolio with the highest Sharpe ratio.
 
 ## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
 In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
