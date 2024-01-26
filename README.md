@@ -3,6 +3,12 @@
 
 Inspired to solve problems using data
 
+## [Financial Data analysys](https://github.com/Nono-byte/Financial-Data-Analysis)
+
+![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Appe.png)
+
+The objective of this proect is to analyze financial data and extract valuable insights to facilitate forecasting of income, balance sheet and cash flows. Through a comprehensive examination of the available financial data, we aim to gain deeper insights into the financial performance of Apple. By leveraging these insights, stakeholders can make informed decisions and take appropriate actions to optimize financial outcomes.
+
 
 ## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
 In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
@@ -63,9 +69,7 @@ The client expects the following outcomes from the verification process:
 - Provide actionable recommendations to address any identified gaps or issues in the system's ability to restrict students to one task at a time.
 - Ensure that the learning platform delivers a seamless and distraction-free learning experience for students, allowing them to focus on their educational tasks effectively.
 
-## [Financial Data analysys](https://github.com/Nono-byte/Financial-Data-Analysis)
 
-The objective of this proect is to analyze financial data and extract valuable insights to facilitate forecasting of income, balance sheet and cash flows. Through a comprehensive examination of the available financial data, we aim to gain deeper insights into the financial performance of Apple. By leveraging these insights, stakeholders can make informed decisions and take appropriate actions to optimize financial outcomes.
 
 This is an on-going project which will feature time series forecasting of the income and cashflows of Apple. 
 
