@@ -12,7 +12,7 @@ This project employs Python to conduct a thorough examination of Apple's financi
 
 ## [Portfolio Optimisation](https://github.com/Nono-byte/Porfolio-Optimisation)
 
-![Image of Stock Market]https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/9c674217a39179ea91f5cc0b6927972590abc8ee/Images/Stocks.png
+![Image of Stock Market](https://github.com/Nono-byte/Nonkululeko_Portfolio/blob/9c674217a39179ea91f5cc0b6927972590abc8ee/Images/Stocks.png)
 
 This project delved into portfolio optimization using Python, focusing on constructing and comparing two portfolios: an equal-weighted and an optimized version. The stocks considered were SPY (S&P 500), AMD, MSFT (Microsoft), and GOOGL (Google).
 
