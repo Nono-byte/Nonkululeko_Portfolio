@@ -21,6 +21,7 @@ The equal-weighted portfolio, distributed evenly with a $10,000 allocation acros
 For portfolio optimization, 10,000 scenarios were generated with random weightings for each stock. Return, volatility, and Sharpe ratio were calculated for each scenario, identifying the optimal portfolio with the highest Sharpe ratio.
 
 ## [Twitter Sentiment Analysis_ Natural language processing](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
+![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
 
 ### Introduction
 In light of the increased volumes of data over the past decade (a.k.a Big Data), there's a high demand by companies for the analysis of data for decision making purposes. Social Media data is a huge source of this data in the form of chats, messages, news feeds, etc. Text analytics is a process that helps analyse this unstructured data and look for useful trends.
@@ -32,19 +33,20 @@ Twitter data is a powerful source of information on a wide list of topics. This 
 ### Problem statement
 Providing an accurate and robust solution using machine learning to create effective tools that give companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
-![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
 
 ## [Golden Delicious Apple Price Prediction - Regression Analysis](https://github.com/Nono-byte/Apple_Price_Prediction_Regression)
+
+![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
+
 In a Fresh Produce Industry, How much stock do you have on hand? Not too little that you run out of stock when customers want to buy more. And not too much that food waste occurs. How do you set your prices? Yields from farms fluctuate by season. Should your prices then also fluctuate by season?
 
 The aim of this project is to construct a regression algorithm, capable of accurately predicting how much a kilogram of Golden Delicious Apples will cost, given certain parameters.
 
 The variable to be predicted(y) is Average Price per Kg
 
-![Image of golden delicious apples](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/Golden%20delicious%20apple2.jpg)
-
 
 ## [Movie Recommendation System_ Unsupervised Learning](https://github.com/Nono-byte/Moive_Recommender_System_Unsupervised_Learning)
+![Image of movies](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/movies.jpg)
 
 ### Problem Statement:
 EDSA requires to construction of a recommendation algorithm based on content or collaborative filtering, capable of accurately predicting how a user will rate a movie they have not yet viewed based on their historical preferences.
@@ -52,7 +54,6 @@ EDSA requires to construction of a recommendation algorithm based on content or 
 ### Business Goal:
 Show the value of recommender system in the industry. These recommender systems assist companies to market their products and services to the target marget, by improving customer service and satisfication. It allows them to increase their market engagement with relevant (items the user likes) products and services which can lead to increase in profits and market share. Industry leading companies such as Netflix and Amazon make use of these recommender systems.
 
-![Image of movies](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/movies.jpg)
 
 ## [SQL: Database Normalization and Querying](https://github.com/Nono-byte/SQL-project)
 
