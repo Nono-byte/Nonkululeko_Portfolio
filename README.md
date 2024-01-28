@@ -57,7 +57,6 @@ Show the value of recommender system in the industry. These recommender systems 
 
 ## [SQL: Database Normalization and Querying](https://github.com/Nono-byte/SQL-project)
 
-![Image]
 
 ### Problem Statement
 The Bhejane trading store is an online retailer specialising in Covid essesstial items. The store has recently be struggling with the management of its database-related inventory system.
