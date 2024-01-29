@@ -18,7 +18,7 @@ This project delved into portfolio optimization using Python, focusing on constr
 
 The equal-weighted portfolio, distributed evenly with a $10,000 allocation across the four stocks, underwent a comprehensive analysis, including cumulative return, mean daily return, standard deviation of daily return, Sharpe ratio, and annualized Sharpe ratio.
 
-For portfolio optimization, 10,000 scenarios were generated with random weightings for each stock. Return, volatility, and Sharpe ratio were calculated for each scenario, identifying the optimal portfolio with the highest Sharpe ratio.
+For portfolio optimisation, 10,000 scenarios were generated with random weightings for each stock. Return, volatility, and Sharpe ratio were calculated for each scenario, identifying the optimal portfolio with the highest Sharpe ratio.
 
 ## [Twitter Sentiment Analysis_ Natural language processing](https://github.com/Nono-byte/Classification_AE1_Twitter_Sentiment_Analysis)
 ![Image of a tweet](https://github.com/Nono-byte/Nonkululeko_Portfolio2/blob/main/Images/twitter%20sentiment%20analysis.jpg)
